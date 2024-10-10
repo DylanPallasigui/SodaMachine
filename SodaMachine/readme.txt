@@ -1,0 +1,1 @@
+The goal of the program was to create a working soda menu program where the user could “buy” soda of different sizes.
